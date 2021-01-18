@@ -15,7 +15,7 @@ export function Nav() {
           <Link to="/">LOGO</Link>
         </li>
         <li>
-          <Link to="/slicemaster">Slice masters</Link>
+          <Link to="/slicemasters">Slice masters</Link>
         </li>
         <li>
           <Link to="/order">Order Ahead!</Link>
